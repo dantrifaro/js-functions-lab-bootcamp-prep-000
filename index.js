@@ -1,5 +1,5 @@
 function happyHolidays(string) {
- return string.toEqual(('Happy holidays!'))
+ console.log('Happy holidays!')
 }
 
 happyHolidays()
