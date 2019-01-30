@@ -2,8 +2,8 @@ function happyHolidays() {
  console.log('Happy holidays!')
 }
 
-happyHolidays()
+happyHolidays('Dan')
 
-function happyHolidaysTo(first name) {
-  
+function happyHolidaysTo(firstName) {
+  console.log(`Happy holidays, ${firstName}!`)
 }
